@@ -4,7 +4,7 @@
 # Allow project folders, README, and .gitignore
 !/courseManagementAPI/
 !/university-system-api/
-!/ProductInventoryAPI/
+!/product-inventory-api/
 !/README.md
 !/.gitignore
 
