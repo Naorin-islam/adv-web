@@ -1,8 +1,10 @@
 # Ignore all top-level folders and files in adv-web repository by default
 /*
 
-# Allow ONLY courseManagementAPI project, README, and .gitignore
+# Allow project folders, README, and .gitignore
 !/courseManagementAPI/
+!/university-system-api/
+!/ProductInventoryAPI/
 !/README.md
 !/.gitignore
 
